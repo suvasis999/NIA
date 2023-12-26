@@ -20,7 +20,7 @@ THE NEW INDIA ASSURANCE CO LTD
             <div className="col-lg-8 wow fadeIn" data-wow-delay="400ms">
                 <div className="ps-xl-2-3">
                     <h2 className="h2 mb-1-6 oragneTxt">THE NEW INDIA ASSURANCE COMPANY LIMITED</h2>
-                    <p className="mb-1-9  text-primary font-weight-300">
+                    <p className="mb-1-9   text-secondary lh34 ">
                     The New India is a public sector General Insurance Company owned by Government of India and presently
                      operating in India and 23 countries spanning 5 continents.  It was established in the year 1919
                       and having its head quarters at Mumbai, India.  “The New India Assurance” was started on 23rd July,
@@ -31,12 +31,12 @@ THE NEW INDIA ASSURANCE CO LTD
                         on NIA which reflects the strong capital base, stable profitability, 
                       highest degree of financial strength to honour its policy holders’ obligations.  
                         </p>
-                   <p className="mb-1-9  text-primary font-weight-300">
+                   <p className="mb-1-9   text-secondary lh34 ">
                    Our Global Gross Premium is over Rial Omani 1,557 Million as on 31st March 2019.  
                    The Company’s net worth including fair value as on 31st  March 2019 was RO 2,112 Million 
                    and total assets of RO 3,837 Million. The solvency ratio of the Company is 2.13 times.
                    </p>
-                   <p className="mb-1-9  text-primary font-weight-300">
+                   <p className="mb-1-9   text-secondary lh34">
                    We have Largest number of Offices  In India and Abroad Trained and technically qualified staff 2221 
                    fully computerised offices across India. “A-” (Excellent) rating by A.M.Best & Co (Europe) First 
                    domestic company to be rated by an International Rating Agency Rating based upon following factors: 
@@ -71,7 +71,7 @@ THE NEW INDIA ASSURANCE CO LTD
         <div className="col-lg-12 wow fadeIn" data-wow-delay="400ms">
        <div className="ps-xl-2-3">
        <div class="inner-title"> <h2 class="h4 mb-0">GLOBAL OPERATIONS:</h2></div>
-       <p className="mb-1-9  text-primary font-weight-300">
+       <p className="mb-1-9   text-secondary lh34">
        The Company’s foreign operations have commenced decades back as early as 1920 and today it operates
         in 23 countries through Subsidiaries, Agency operations, Direct branches and Associate companies. 
         We operate in all GCC Countries.  In addition, New India has also equity participation in Insurance 
@@ -88,7 +88,7 @@ THE NEW INDIA ASSURANCE CO LTD
     <div className="col-lg-12 wow fadeIn" data-wow-delay="400ms">
        <div className="ps-xl-2-3">
        <div class="inner-title"> <h2 class="h4 mb-0">OMAN OPERATIONS</h2></div>
-       <p className="mb-1-9  text-primary font-weight-300">
+       <p className="mb-1-9   text-secondary lh34">
        The deep rooted and centuries old relationship between the Sultanate of Oman and India is
         historical and “New India” is proud and privileged to be an integral part of this nation’s
          economic and social development since 1974.   New India Assurance was the first foreign
@@ -98,7 +98,7 @@ THE NEW INDIA ASSURANCE CO LTD
 
 
         </p>
-        <p className="mb-1-9  text-primary font-weight-300">
+        <p className="mb-1-9   text-secondary lh34">
      New India Assurance, Oman is in the forefront of offering and devising unique insurance
       products and services.  The wide range of insurance policies caters to Project insurance, 
       Fire (Property) insurance, Personal Accident,   Household   insurance,   Workmen   
@@ -119,22 +119,22 @@ THE NEW INDIA ASSURANCE CO LTD
             <div className="col-lg-8 wow fadeIn" data-wow-delay="400ms">
                 <div className="ps-xl-2-3">
                     <h2 className="h2 mb-1-6"></h2>
-                    <p className="mb-1-9  text-primary font-weight-300">
+                    <p className="mb-1-9   text-secondary lh34 ">
 
                    
 
 In the Oman insurance market 20 general insurance companies are operating out of which 10 are National companies and 10 are Foreign companies.  Amongst the 10 foreign general insurance companies operating in the Oman market, New India is the distinct leader with 34% market share which clearly shows the credibility, stability and service edge of New India Assurance’s operation in the Sultanate of Oman.  The New India Assurance Oman had done a gross premium of RO 26 million and its overall market share is 6% and enjoys the 7th position among the insurers of Oman in gross premium basis and 4th position in net premium. During the last financial year we have underwritten 85,602 numbers of policies and settled 32,724 numbers of claims thereby disbursing an amount of RO 12,558,105/- in this country. 
                         </p>
-                   <p className="mb-1-9  text-primary font-weight-300">
+                   <p className="mb-1-9   text-secondary lh34 ">
                    The company has been aggressively expanding its network in Oman.  New India Assurance Oman has a dedicated team of personnel to meet all requirements of our customers.  In fact, New India Oman is a true blend of Omanis and Indians working together in harmony and cooperation.   At New India, well trained Omani personnel play a crucial role in nurturing the insurance needs of its clients, and ensure maximum satisfaction.  New India also wishes to make the most of it by providing excellent services with professionalism, technical expertise and personal touch.   We had started a training centre at our Head Office for providing insurance training to our staff, agents and intermediaries.  We have also have a grievance redressal body at Head Office which addresses the complaints if any on a time bound basis and it also takes all steps to mitigate the grievances.
                     </p>
-                   <p className="mb-1-9  text-primary font-weight-300">
+                   <p className="mb-1-9   text-secondary lh34">
                    The New India Assurance Company Limited, Oman operations has received the glorious reward by winning the Best Non-Life Insurer Oman – 2013 award from World Finance, a UK based agency for rating finance and insurance sector establishments.
                    </p>
-                   <p className="mb-1-9  text-primary font-weight-300">
+                   <p className="mb-1-9   text-secondary lh34">
                    M/s. Abdul Aziz & Brothers LLC is the business partner of The New India Assurance in the Sultanate of Oman.  Mr. Majid Abdul Rahim Jaffer, is the Chairman of Abdul Aziz & Brothers LLC and Majid Group Companies.
                    </p>
-                   <p className="mb-1-9  text-primary font-weight-300">
+                   <p className="mb-1-9   text-secondary lh34">
                    We have been the market leader in India in Non-life sector for consecutively for 43 years. We are only direct insurer in India having A- Excellent (stable outlook) by A.M. Best & Co. CRISIL has reaffirmed its AAA Stable rating on NIA which reflects the strong capital base, stable profitability, highest degree of financial strength to honour its policy holders’ obligations.
                     </p>
                 </div>

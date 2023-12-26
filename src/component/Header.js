@@ -29,7 +29,7 @@ export default function Header() {
     <div className="navbar-default border-bottom border-color-light-white">
 
         
-        <div className="container">
+        <div className="" style={{padding:'0 10px'}}>
             <div className="row align-items-center">
                 <div className="col-12 col-lg-12">
                     <div className="menu_area alt-font">
