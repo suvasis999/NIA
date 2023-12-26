@@ -17,8 +17,8 @@ export const Ourproduct = () => {
                         </div>
                         <div className="flex-grow-1 ms-3 ms-sm-4">
                             <h4 className="h5 mb-2">Marine Insurance</h4>
-                            <p className="mb-0"> All Risks and Limited Risk Covers for exports 
-                                and...</p>
+                            <p className="mb-0"> All Risks and Limited Risk Covers 
+                            for exports and Imports by sea air and land.</p>
                         </div>
                         <div className="go-corner" href="#">
                             <div className="go-arrow">
@@ -36,8 +36,8 @@ export const Ourproduct = () => {
                             </div>
                             <div className="flex-grow-1 ms-3 ms-sm-4">
                                 <h4 className="h5 mb-2">Project Insurance</h4>
-                                <p className="mb-0"> Contractors’ All Risks Policy and Erection 
-                                    All Risks...</p>
+                                <p className="mb-0"> Contractors’ All Risks Policy and Erection All 
+                                Risks Policy for civil and mechanical contractors and all ...</p>
                             </div>
                             <div className="go-corner" href="#">
                                 <div className="go-arrow">
@@ -55,7 +55,8 @@ export const Ourproduct = () => {
                             </div>
                             <div className="flex-grow-1 ms-3 ms-sm-4">
                                 <h4 className="h5 mb-2">General Insurance</h4>
-                                <p className="mb-0">Legal liability of insured towards damage ...</p>
+                                <p className="mb-0">Legal liability of insured towards damage to the third 
+                                party in respect of accidental death/bodily injury...</p>
                             </div>
                             <div className="go-corner" href="#">
                                 <div className="go-arrow">
@@ -72,8 +73,8 @@ export const Ourproduct = () => {
                             </div>
                             <div className="flex-grow-1 ms-3 ms-sm-4">
                                 <h4 className="h5 mb-2">Property Insurance</h4>
-                                <p className="mb-0"> For Factories, Warehouses, Business
-                                    Establishments...</p>
+                                <p className="mb-0"> For Factories, Warehouses, Business Establishments and contents
+                                 therein against physical loss or damage...</p>
                             </div>
                             <div className="go-corner" href="#">
                                 <div className="go-arrow">
@@ -90,8 +91,7 @@ export const Ourproduct = () => {
                             </div>
                             <div className="flex-grow-1 ms-3 ms-sm-4">
                                 <h4 className="h5 mb-2">Fire And Perils Policy</h4>
-                                <p className="mb-0">For Factories, Warehouses, Offices, 
-                                    Residences and ...</p>
+                                <p className="mb-0">For Factories, Warehouses, Offices, Residences and contents therein against physical loss or damage...</p>
                              </div>
                             <div className="go-corner" href="#">
                                 <div className="go-arrow">
@@ -108,7 +108,8 @@ export const Ourproduct = () => {
                             </div>
                             <div className="flex-grow-1 ms-3 ms-sm-4">
                                 <h4 className="h5 mb-2">Business Insurance</h4>
-                                <p className="mb-0">We help you discover any protection inclusions..</p>
+                                <p className="mb-0">Legal liability covering the acts of Omission of Professional like, Brokers, 
+                                Doctors, Lawyers...</p>
                             </div>
                             <div className="go-corner" href="#">
                                 <div className="go-arrow">
