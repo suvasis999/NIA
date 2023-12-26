@@ -603,7 +603,9 @@ a:hover, a:active {
 }
 
 .butn-style3.sm {
-    padding: .55rem .45rem !important
+   /* padding: .55rem .45rem !important*/
+   padding: 5px 10px!important;
+   min-width: 120px;
 }
 
 .bd-example button, .bd-example a {
@@ -1713,7 +1715,8 @@ font-size: 14px;
 }
 
 .accordion-style.style1 .btn-link.collapsed {
-    background: #f2f2f3
+    background:rgb(235, 99, 2);
+    color: #ffffff;
 }
 
 ul.resp-tabs-list {
@@ -2250,6 +2253,9 @@ pre[class*="language-"] {
     margin-bottom: 35px;
     padding-bottom: 20px
 }
+.oragneTxt{
+    color:rgb(235, 99, 2);
+}
 
 .inner-title h2 {
     position: relative;
@@ -2258,7 +2264,8 @@ pre[class*="language-"] {
     margin-bottom: 12px;
     padding-top: 8px;
     z-index: 1;
-    text-transform: uppercase
+    text-transform: uppercase;
+    color:rgb(235, 99, 2);
 }
 
 .inner-title h2:after {

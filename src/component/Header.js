@@ -60,7 +60,8 @@ export default function Header() {
                                          className="butn-style3 sm text-white"><span>Buy Online</span></a></li>
                                         <li className="d-none d-xl-inline-block"> 
                                         <a href="https://www.newindiaoman.com/Account/login.aspx" target="_blank" 
-                                            className="butn-style3 sm text-white" style={{ background: '#eb6302'}}><span>Login</span></a></li>
+                                            className="butn-style3 sm text-white" 
+                                            style={{ background: '#eb6302'}}><span>Login</span></a></li>
                                 </ul>
                             </div>
                            

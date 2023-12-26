@@ -19,7 +19,7 @@ THE NEW INDIA ASSURANCE CO LTD
             </div>
             <div className="col-lg-8 wow fadeIn" data-wow-delay="400ms">
                 <div className="ps-xl-2-3">
-                    <h2 className="h2 mb-1-6">THE NEW INDIA ASSURANCE COMPANY LIMITED</h2>
+                    <h2 className="h2 mb-1-6 oragneTxt">THE NEW INDIA ASSURANCE COMPANY LIMITED</h2>
                     <p className="mb-1-9  text-primary font-weight-300">
                     The New India is a public sector General Insurance Company owned by Government of India and presently
                      operating in India and 23 countries spanning 5 continents.  It was established in the year 1919
@@ -155,7 +155,7 @@ In the Oman insurance market 20 general insurance companies are operating out of
 
    <div className="row about-style2">
 
-<div id="accordion" class="accordion-style">
+<div id="accordion" class="accordion-style style1">
     <div class="card mb-3">
         <div class="card-header" id="headingOne">
             <h5 class="mb-0">
@@ -228,11 +228,12 @@ In the Oman insurance market 20 general insurance companies are operating out of
         </div>
     </div>
     <div class="card mb-3">
-        <div class="card-header" id="headingFive">
+        <div class="card-header" id="headingFiver">
             <h5 class="mb-0">
-                <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">STANDARDS FOR SERVICING</button></h5>
+                <button class="btn btn-link collapsed" data-bs-toggle="collapse"
+                 data-bs-target="#collapseFiver" aria-expanded="false" aria-controls="collapseFiver">STANDARDS FOR SERVICING</button></h5>
         </div>
-        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-bs-parent="#accordion">
+        <div id="collapseFiver" class="collapse" aria-labelledby="headingFiver" data-bs-parent="#accordion">
             <div class="card-body">
             <ul class="list-style1 mb-0">
             <li>Enable the customers with opportunities to provide the organization with feedback on services availed by them and suggest improvement through customer meets, surveys.</li>
