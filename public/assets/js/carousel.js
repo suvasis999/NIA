@@ -7,7 +7,7 @@
     t("#preloader").fadeOut("normall", function() { t(this).remove() }), s.on("scroll", function() { var e = s.scrollTop(),
             a = t(".navbar-brand img"),
             o = t(".navbar-brand.logodefault img");
-        e <= 50 ? (t("header").removeClass("scrollHeader").addClass("fixedHeader"), a.attr("src", "assets/img/logos/logo-inner.png")) : (t("header").removeClass("fixedHeader").addClass("scrollHeader"), a.attr("src", "assets/img/logos/logo.png")), o.attr("src", "assets/img/logos/logo.png") }), 
+        e <= 50 ? (t("header").removeClass("scrollHeader").addClass("fixedHeader"), a.attr("src", "/assets/img/logos/logo-inner.png")) : (t("header").removeClass("fixedHeader").addClass("scrollHeader"), a.attr("src", "/assets/img/logos/logo.png")), o.attr("src", "/assets/img/logos/logo.png") }), 
         s.on("scroll", function() { 500 < t(this).scrollTop() ? t(".scroll-to-top").fadeIn(400) : t(".scroll-to-top").fadeOut(400) }), t(".scroll-to-top").on("click", function(e) { e.preventDefault(), t("html, body").animate({ scrollTop: 0 }, 600) }), new WOW({ boxClass: "wow", animateClass: "animated", offset: 0, mobile: !1, live: !0 }).init(), t(".parallax,.bg-img").each(function(e) { t(this).attr("data-background") && t(this).css("background-image", "url(" + t(this).data("background") + ")") }), 
         /*t(".story-video").magnificPopup({ delegate: ".video", type: "iframe" }), */
         /*t(".source-modal").magnificPopup({ type: "inline", mainClass: "mfp-fade", removalDelay: 160 }), */

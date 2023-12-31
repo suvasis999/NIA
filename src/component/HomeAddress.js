@@ -8,7 +8,7 @@ export const HomeAddress = () => {
             <div className="col-lg-3 mb-3 mb-lg-0">
                 <div className="bg-white p-1-9 shadow border-radius-10 text-center h-100">
                     <div className="footer-logo mx-auto">
-                        <img src="assets/img/logos/logo-inner.png" alt="..."/>
+                        <img src="/assets/img/logos/logo.png" alt="..."/>
                     </div>
                 </div>
             </div>

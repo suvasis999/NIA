@@ -36,7 +36,7 @@ export default function Header() {
                         <nav className="navbar navbar-expand-lg navbar-light p-0">
                             <div className="navbar-header navbar-header-custom">
                                  <Link to="/" className="navbar-brand">
-                                    <img id="logo" src="assets/img/logos/logo-inner.png" 
+                                    <img id="logo" src="/assets/img/logos/logo-inner.png" 
                                     alt="logo"  />
                                 </Link>
                                 
@@ -47,7 +47,17 @@ export default function Header() {
                             <ul className="navbar-nav ms-1" id="nav" style={{display: 'none'}}>
                                 <li><Link to="/"> Home</Link></li>
                                 <li><Link to="/aboutUs">About Us</Link> </li>
-                                <li><Link to="/product">Our Products</Link></li>
+                                 <li><a href="#">Our Products</a>
+                                            <ul>
+                                                <li><Link to="/product/Private">Private</Link></li>
+                                                <li><Link to="/product/Commercial">Commercial</Link></li>
+                                                <li><Link to="/product/Industrial">Industrial</Link></li>
+                                                <li><Link to="/product/Liability">Liability</Link></li>
+                                                <li><Link to="/product/Others">Others</Link></li>
+                                              
+                                            </ul>
+                                        </li>
+
                                 <li><Link to="/office">Our Office</Link></li>
                                 <li><Link to="/news">News & Event</Link></li>
                                 <li><Link to="/faq">Faq</Link></li>

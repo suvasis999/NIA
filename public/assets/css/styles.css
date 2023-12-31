@@ -369,7 +369,8 @@ a:hover, a:active {
 }
 
 .butn.sm {
-    padding: 6px 20px !important
+    padding: 6px 20px !important;
+    margin: 0px 2px;
 }
 
 .butn.md {
@@ -4416,3 +4417,8 @@ footer .footer-bar p {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     z-index: 9999
 }
+
+.lightbox-gallery{background-color: #ffffff;
+    background-repeat: no-repeat;
+    color: #000;
+    overflow-x: hidden}.lightbox-gallery p{color:#fff}.lightbox-gallery h2{font-weight:bold;margin-bottom:40px;padding-top:40px;color:#fff}@media (max-width:767px){.lightbox-gallery h2{margin-bottom:25px;padding-top:25px;font-size:24px}}.lightbox-gallery .intro{font-size:16px;max-width:500px;margin:0 auto 40px}.lightbox-gallery .intro p{margin-bottom:0}.lightbox-gallery .photos{padding-bottom:20px}.lightbox-gallery .item{padding-bottom:30px}

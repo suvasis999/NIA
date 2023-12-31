@@ -9,6 +9,7 @@
     "loadjs": "^4.3.0-rc1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-images": "^1.2.0-beta.7",
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.21.1",
     "react-scripts": "5.0.1",

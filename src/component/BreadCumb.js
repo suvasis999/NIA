@@ -1,20 +1,20 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 
-export const BreadCumb = () => {
+export const BreadCumb = (props) => {
   return (
     <section className="page-title-section top-position1 bg-img cover-background left-overlay-dark" data-overlay-dark="6" 
-    style={{ backgroundImage: "url('assets/img/banner/aboutupdated.jpg')" }}>
+    style={{ backgroundImage: ""+props.bgImage+"" }}>
             <div className="container">
                 <div className="page-title">
                     <div className="row">
                         <div className="col-md-12">
-                            <h1>About Us</h1>
+                            <h1>{props.title}</h1>
                         </div>
                         <div className="col-md-12">
                             <ul className="ps-0">
-                                <li> <Link to="/" className="text-white">Home</Link></li>
-                                <li> <Link to="/aboutUs" className="text-white">About Us</Link></li>
+                                <li> <Link to="/" className="text-white">{props.mainRoute}</Link></li>
+                                <li> <Link to={"/"+props.routeLink+""} className="text-white">{props.route}</Link></li>
                             </ul>
                         </div>
                     </div>
