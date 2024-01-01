@@ -5,6 +5,9 @@ import { useParams } from "react-router-dom";
 import { CeoMessage } from './Abouts/CeoMessage';
 import { TeamStructure } from './Abouts/TeamStructure';
 import { Financial } from './Abouts/Financial';
+import { FinancialRating } from './Abouts/FinancialRating';
+
+import { Performance } from './Abouts/Performance';
 
 export const About = () => {
   let { titleAbout } = useParams(); 
@@ -24,7 +27,12 @@ export const About = () => {
     titleAbout==='team'?
     <TeamStructure/>:
     titleAbout==='financial'?
-    <Financial/>:<></>}
+    <Financial/>:
+    titleAbout==='financialRating'?
+    <FinancialRating/>:
+    titleAbout==='performance'?
+    <Performance/>:
+    <></>}
   
     </>
   )

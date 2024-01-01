@@ -27,7 +27,7 @@ root.render(
           <Route exact path="/" element={<Home/>}/>
           {/*<Route exact path="/aboutUs" element={<About/>}/>*/}
           <Route path="/aboutUs/*">
-            <Route path=":titleAbout" element={<About />}></Route>
+            <Route path=":titleAbout" element={<About />}></Route> 
           </Route>
           <Route path="/product/*">
             <Route path=":title" element={<Product />}></Route>

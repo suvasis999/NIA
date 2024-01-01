@@ -52,8 +52,9 @@ export default function Header() {
                                                 <li><Link to="/aboutUs/CEOmessage">Message From COO</Link></li>
                                                 <li><Link to="/aboutUs/team">Team Structure</Link></li>
                                                 <li><Link to="/aboutUs/financial">Financial</Link></li>
-                                               
-                                              
+                                               {/* <li><Link to="/aboutUs/financialRating">FinancialRating</Link></li>
+                                                <li><Link to="/aboutUs/performance">Performance</Link></li>
+  */}
                                             </ul>
                                         </li>
                                      <li></li>
