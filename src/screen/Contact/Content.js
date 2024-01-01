@@ -9,7 +9,7 @@ export const Content = () => {
                     <div className="col-lg-5 col-xl-4 mb-2-9 mb-lg-0">
                         <div className="pe-lg-3 mt-n1-9">
                             <div className="card card-style4 mt-1-9">
-                                <div className="card-body p-1-6 p-sm-1-9">
+                                <div className="card-body p-1-2 p-sm-1-3">
                                     <div className="d-flex">
                                         <div className="flex-shrink-0 icon-box">
                                             <i className="ti-location-pin text-primary z-index-9 display-8 position-relative"></i>
@@ -17,7 +17,7 @@ export const Content = () => {
                                         </div>
                                         <div className="flex-grow-1 ms-3">
                                             <h4 className="h5">Location</h4>
-                                            <p><b>Mr. Gaurav Sharma</b></p>
+                                            <p style={{fontSize:18}}><b>Mr. Gaurav Sharma</b></p>
                                             <span>
 
 Chief Operating Officer<br/>
@@ -30,7 +30,7 @@ Sultanate of Oman</span>
                                 </div>
                             </div>
                             <div className="card card-style4 mt-1-9">
-                                <div className="card-body p-1-6 p-sm-1-9">
+                                <div className="card-body p-1-2 p-sm-1-2">
                                     <div className="d-flex">
                                         <div className="flex-shrink-0 icon-box">
                                             <i className="ti-mobile text-primary z-index-9 display-8 position-relative"></i>
@@ -44,15 +44,15 @@ Sultanate of Oman</span>
                                 </div>
                             </div>
                             <div className="card card-style4 mt-1-9">
-                                <div className="card-body p-1-6 p-sm-1-9">
+                                <div className="card-body p-1-2 p-sm-1-2">
                                     <div className="d-flex">
                                         <div className="flex-shrink-0 icon-box">
                                             <i className="ti-email text-primary z-index-9 display-8 position-relative"></i>
                                             <div className="box-circle primary"></div>
                                         </div>
                                         <div className="flex-grow-1 ms-3">
-                                            <span className="d-block">Email:niamct@omantel.net.om</span>
-                                            <span>Web:newindiaoman.com</span>
+                                            <span className="d-block">niamct@omantel.net.om</span>
+                                            <span>www.newindiaoman.com</span>
                                         </div>
                                     </div>
                                 </div>

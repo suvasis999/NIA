@@ -197,7 +197,7 @@ export const Content = () => {
             <div className="container">
                 <div className="section-heading text-center mb-2-9 mb-lg-6 wow fadeIn" data-wow-delay="100ms">
                     <span>Gallery</span>
-                    <h2 className="h1 mb-0">Newa & Event</h2>
+                    <h2 className="h1 mb-0">News & Event</h2>
                 </div>
                 <div className="row about-style">
                 <div classNameName="col-lg-12 wow fadeIn" data-wow-delay="400ms">

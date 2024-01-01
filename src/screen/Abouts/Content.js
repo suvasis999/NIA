@@ -8,7 +8,7 @@ export const Content = () => {
             <div className="col-lg-4 mb-1-9 mb-lg-0 wow fadeIn" data-wow-delay="200ms">
                 <div className="pe-xl-1-9 mb-md-2-9 position-relative">
                     <div className="text-end about-img1 position-relative image-hover">
-                        <img src="assets/img/abtus/neeraja.jpg" className="rounded" alt="..."/>
+                        <img src="/assets/img/abtus/neeraja.jpg" className="rounded" alt="..."/>
                         <p >
                         Ms Neerja Kapur<br/>
 Chairman Cum Managing Director <br/>
@@ -142,7 +142,7 @@ In the Oman insurance market 20 general insurance companies are operating out of
             <div className="col-lg-4 mb-1-9 mb-lg-0 wow fadeIn" data-wow-delay="200ms">
                 <div className="pe-xl-1-9 mb-md-2-9 position-relative">
                     <div className="text-end about-img1 position-relative image-hover">
-                        <img src="assets/img/abtus/COO-Photo.jpg" className="rounded" alt="..."/>
+                        <img src="/assets/img/abtus/COO-Photo.jpg" className="rounded" alt="..."/>
                         <p >
                         MR.GAURAV SHARMA<br/>
                         Chief Operating Officer <br/>

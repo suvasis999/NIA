@@ -24,7 +24,7 @@ export const Aboutus = () => {
                             <span>about us</span>
                             <h2 className="display-22 display-sm-18 display-md-16 mb-0">We are a professional and creative company and we offer you a trusty insurance on your veicle.</h2>
                         </div>
-                       <p className="mb-xl-1-9">New India Assurance Co Ltd is a multinational general insurance Government of India Public Sector Undertaking company operating in 22 Countries and Head Quartered at Mumbai in India The Global business stands at US$ 4.6 Billion completed in the last financial year 2021-2022.</p>
+                       <p className="mb-xl-1-9">New India Assurance Co Ltd is a multinational general insurance Government of India Public Sector Undertaking company operating in 23 Countries and Head Quartered at Mumbai in India The Global business stands at US$ 4.6 Billion completed in the last financial year 2021-2022.</p>
                        
 
                     </div>

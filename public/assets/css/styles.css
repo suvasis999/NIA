@@ -4417,6 +4417,13 @@ footer .footer-bar p {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     z-index: 9999
 }
+.borderNone{
+    border-width: 0;
+    border-color: transparent;
+}
+.fbold{
+font-weight: bold;
+}
 
 .lightbox-gallery{background-color: #ffffff;
     background-repeat: no-repeat;

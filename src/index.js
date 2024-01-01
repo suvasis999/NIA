@@ -25,14 +25,20 @@ root.render(
         
    <Routes>
           <Route exact path="/" element={<Home/>}/>
-          <Route exact path="/aboutUs" element={<About/>}/>
+          {/*<Route exact path="/aboutUs" element={<About/>}/>*/}
+          <Route path="/aboutUs/*">
+            <Route path=":titleAbout" element={<About />}></Route>
+          </Route>
           <Route path="/product/*">
             <Route path=":title" element={<Product />}></Route>
           </Route>
 
          {/* <Route exact path="/product" element={<Product/>}/>
           <Route exact path="/product/:title" element={<Product/>}/>*/}
-          <Route exact path="/office" element={<Office/>}/>
+           <Route path="/office/*">
+            <Route path=":titleOffice" element={<Office />}></Route>
+          </Route>
+          {/*<Route exact path="/office" element={<Office/>}/>*/}
           <Route exact path="/news" element={<News/>}/>
           <Route exact path="/faq" element={<Faq/>}/>
           <Route exact path="/contact" element={<Contact/>}/>

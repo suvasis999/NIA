@@ -46,7 +46,17 @@ export default function Header() {
 
                             <ul className="navbar-nav ms-1" id="nav" style={{display: 'none'}}>
                                 <li><Link to="/"> Home</Link></li>
-                                <li><Link to="/aboutUs">About Us</Link> </li>
+                                <li><a href="#">About Us</a>
+                                            <ul>
+                                                <li><Link to="/aboutUs/about">About Us</Link></li>
+                                                <li><Link to="/aboutUs/CEOmessage">Message From COO</Link></li>
+                                                <li><Link to="/aboutUs/team">Team Structure</Link></li>
+                                                <li><Link to="/aboutUs/financial">Financial</Link></li>
+                                               
+                                              
+                                            </ul>
+                                        </li>
+                                     <li></li>
                                  <li><a href="#">Our Products</a>
                                             <ul>
                                                 <li><Link to="/product/Private">Private</Link></li>
@@ -57,8 +67,18 @@ export default function Header() {
                                               
                                             </ul>
                                         </li>
-
-                                <li><Link to="/office">Our Office</Link></li>
+                                     <li>
+                                    
+                                <a href="#">Our Office</a>
+                                            <ul>
+                                                <li><Link to="/office/OurOffice">Our Office</Link></li>
+                                                <li><Link to="/office/GccLocation">Gcc Location</Link></li>
+                                                <li><Link to="/office/WorldWideLocation">World Wide Location</Link></li>
+                                               {/* <li><Link to="/office/Branches">Our Branches</Link></li>*/}
+                                               
+                                              
+                                            </ul>
+                                    </li>
                                 <li><Link to="/news">News & Event</Link></li>
                                 <li><Link to="/faq">Faq</Link></li>
                                 <li><Link to="/contact">Contact</Link></li>
