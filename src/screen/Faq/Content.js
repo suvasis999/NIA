@@ -186,7 +186,7 @@ TPA will enter into a M.O.U. with chain of hospitals to facilitate the medical t
                 </div>
                 <div className="ps-lg-1-9 ">
                 <p >
-                <b>V V RAGHAVAN</b><br/>
+                <b>Mr. Gaurav Sharma</b><br/>
 Chief Operating Officer <br/>
 The New India Assurance Co Ltd<br/>
                         </p>

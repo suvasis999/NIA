@@ -18,7 +18,7 @@ export const WorldWideWeb = () => {
                                     </div>
                                     <div className="col-4 col-md-4 text-center">
                                       <div className="card-body pb-1-9 px-1-9  ">
-                                      <p><strong>Mr. V V Raghavan</strong><br/>
+                                      <p><strong>Mr. Gaurav Sharma</strong><br/>
                                         Chief Operating Officer<br/>
                                         The New India Assurance Co Ltd<br/>
                                         P O Box 2907<br/>
