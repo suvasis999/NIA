@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from 'react-router-dom'
 
 
-export default function Header() {
+export default function Header(props) {
   return (
     <header className="header-style1 menu_area-light">
     <div className="top-bar bg-secondary">
@@ -18,6 +18,7 @@ export default function Header() {
                 </div>
                 <div className="col-xs-12 col-md-3 d-none d-md-block">
                     <ul className="top-social-icon ps-0">
+                       {/* <li style={{color:'white',cursor:'pointer'}}><span onClick={()=>props.clicktoIncre()}>EN </span> | <span> AR</span></li>*/}
                         <li> <Link to="/">EN |</Link> <Link to="/">AR</Link></li>
                         
                      </ul>

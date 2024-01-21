@@ -8,8 +8,11 @@ import { Testimonial } from '../component/Testimonial';
 import { HomeContact } from '../component/HomeContact';
 import { NewsBlog } from '../component/NewsBlog';
 import { HomeAddress } from '../component/HomeAddress';
+import { useSelector } from "react-redux";
 
 const Home = () => {
+ 
+ 
   useEffect(() => {
     loadjs('assets/js/main.js', () => {});
 

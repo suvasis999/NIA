@@ -17,8 +17,15 @@ import { Vision } from './screen/Vision';
 import { Management } from './screen/Management';
 import { Agency } from './screen/Agency';
 import { Download } from './screen/Download';
+import { Provider } from "react-redux";
+import { store, persistor } from './redux/Store';
+import { PersistGate } from 'redux-persist/integration/react'; // Import PersistGate
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+  <Provider store={store}>
+  <PersistGate loading={null} persistor={persistor}>
+
   <React.StrictMode>
     <Router>
     <Layout>
@@ -50,6 +57,8 @@ root.render(
       </Layout>
         </Router>
   </React.StrictMode>
+  </PersistGate>
+  </Provider>
 );
 
 // If you want to start measuring performance in your app, pass a function
